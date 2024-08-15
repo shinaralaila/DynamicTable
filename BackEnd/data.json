@@ -1,0 +1,212 @@
+[
+  { "rollno": "001", "name": "Anna", "science": 84, "math": 90, "english": 78 },
+  {
+    "rollno": "002",
+    "name": "Bincy",
+    "science": 79,
+    "math": 88,
+    "english": 85
+  },
+  {
+    "rollno": "003",
+    "name": "Charlie",
+    "science": 82,
+    "math": 91,
+    "english": 80
+  },
+  { "rollno": "004", "name": "Diya", "science": 85, "math": 92, "english": 89 },
+  { "rollno": "005", "name": "Eve", "science": 88, "math": 94, "english": 91 },
+  {
+    "rollno": "006",
+    "name": "Fiona",
+    "science": 76,
+    "math": 84,
+    "english": 77
+  },
+  {
+    "rollno": "007",
+    "name": "George",
+    "science": 82,
+    "math": 79,
+    "english": 88
+  },
+  {
+    "rollno": "008",
+    "name": "Hannah",
+    "science": 90,
+    "math": 92,
+    "english": 85
+  },
+  { "rollno": "009", "name": "Ivy", "science": 78, "math": 83, "english": 80 },
+  { "rollno": "010", "name": "Jack", "science": 84, "math": 89, "english": 86 },
+  { "rollno": "011", "name": "Anna", "science": 77, "math": 80, "english": 75 },
+  {
+    "rollno": "012",
+    "name": "Bincy",
+    "science": 89,
+    "math": 91,
+    "english": 82
+  },
+  {
+    "rollno": "013",
+    "name": "Charlie",
+    "science": 81,
+    "math": 84,
+    "english": 78
+  },
+  { "rollno": "014", "name": "Diya", "science": 95, "math": 92, "english": 87 },
+  { "rollno": "015", "name": "Eve", "science": 87, "math": 90, "english": 89 },
+  {
+    "rollno": "016",
+    "name": "Fiona",
+    "science": 79,
+    "math": 85,
+    "english": 83
+  },
+  {
+    "rollno": "017",
+    "name": "George",
+    "science": 82,
+    "math": 77,
+    "english": 91
+  },
+  {
+    "rollno": "018",
+    "name": "Hannah",
+    "science": 88,
+    "math": 84,
+    "english": 86
+  },
+  { "rollno": "019", "name": "Ivy", "science": 93, "math": 95, "english": 90 },
+  { "rollno": "020", "name": "Jack", "science": 81, "math": 88, "english": 87 },
+  { "rollno": "021", "name": "Anna", "science": 76, "math": 79, "english": 81 },
+  {
+    "rollno": "022",
+    "name": "Bincy",
+    "science": 90,
+    "math": 93,
+    "english": 84
+  },
+  {
+    "rollno": "023",
+    "name": "Charlie",
+    "science": 85,
+    "math": 88,
+    "english": 83
+  },
+  { "rollno": "024", "name": "Diya", "science": 92, "math": 89, "english": 90 },
+  { "rollno": "025", "name": "Eve", "science": 80, "math": 77, "english": 82 },
+  {
+    "rollno": "026",
+    "name": "Fiona",
+    "science": 87,
+    "math": 84,
+    "english": 78
+  },
+  {
+    "rollno": "027",
+    "name": "George",
+    "science": 95,
+    "math": 89,
+    "english": 85
+  },
+  {
+    "rollno": "028",
+    "name": "Hannah",
+    "science": 79,
+    "math": 92,
+    "english": 91
+  },
+  { "rollno": "029", "name": "Ivy", "science": 84, "math": 81, "english": 80 },
+  { "rollno": "030", "name": "Jack", "science": 88, "math": 85, "english": 90 },
+  { "rollno": "031", "name": "Anna", "science": 82, "math": 79, "english": 77 },
+  {
+    "rollno": "032",
+    "name": "Bincy",
+    "science": 90,
+    "math": 94,
+    "english": 86
+  },
+  {
+    "rollno": "033",
+    "name": "Charlie",
+    "science": 79,
+    "math": 85,
+    "english": 80
+  },
+  { "rollno": "034", "name": "Diya", "science": 84, "math": 90, "english": 87 },
+  { "rollno": "035", "name": "Eve", "science": 95, "math": 91, "english": 83 },
+  {
+    "rollno": "036",
+    "name": "Fiona",
+    "science": 80,
+    "math": 88,
+    "english": 85
+  },
+  {
+    "rollno": "037",
+    "name": "George",
+    "science": 82,
+    "math": 93,
+    "english": 79
+  },
+  {
+    "rollno": "038",
+    "name": "Hannah",
+    "science": 86,
+    "math": 80,
+    "english": 82
+  },
+  { "rollno": "039", "name": "Ivy", "science": 78, "math": 77, "english": 91 },
+  { "rollno": "040", "name": "Jack", "science": 83, "math": 89, "english": 84 },
+  { "rollno": "041", "name": "Anna", "science": 76, "math": 87, "english": 79 },
+  {
+    "rollno": "042",
+    "name": "Bincy",
+    "science": 84,
+    "math": 92,
+    "english": 88
+  },
+  {
+    "rollno": "043",
+    "name": "Charlie",
+    "science": 77,
+    "math": 81,
+    "english": 80
+  },
+  { "rollno": "044", "name": "Diya", "science": 89, "math": 90, "english": 93 },
+  { "rollno": "045", "name": "Eve", "science": 85, "math": 78, "english": 82 },
+  {
+    "rollno": "046",
+    "name": "Fiona",
+    "science": 82,
+    "math": 86,
+    "english": 88
+  },
+  {
+    "rollno": "047",
+    "name": "George",
+    "science": 90,
+    "math": 94,
+    "english": 89
+  },
+  {
+    "rollno": "048",
+    "name": "Hannah",
+    "science": 81,
+    "math": 84,
+    "english": 77
+  },
+  { "rollno": "049", "name": "Ivy", "science": 77, "math": 95, "english": 80 },
+  { "rollno": "050", "name": "Jack", "science": 93, "math": 89, "english": 82 },
+  { "rollno": "051", "name": "Ivya", "science": 77, "math": 45, "english": 83 },
+
+  {
+    "rollno": "052",
+    "name": "Jackie",
+    "science": 93,
+    "math": 89,
+    "english": 82
+  },
+  { "rollno": "053", "name": "Divya", "science": 37, "math": 45, "english": 33 }
+]
